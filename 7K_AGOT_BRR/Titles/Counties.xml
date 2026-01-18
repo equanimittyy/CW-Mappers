@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Titles>
+	<!--This is to assign MEN-AT-ARMS units based on title key and not owner culture-->
+	<!--Levies do not take part in this!!-->
+	
+	
+	<!--DEFAULT value does not work here, every unit must have a unit key-->
+	<!--title_key = key of the landed title-->
+	<Faction title_key="c_lannisport" name="Lordship of Lannisport">
+		<General key="Westerlands_Lannisport_MAA_Lance_Cavalry"></General>
+		<Knights key="Westerlands_Lannisport_MAA_Mounted_Swordsmen"></Knights>
+		
+		<MenAtArm type="light_footmen" key="Westerlands_Lannisport_MAA_Spearmen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="Westerlands_Lannisport_MAA_Mounted_Swordsmen"></MenAtArm>
+		<MenAtArm type="westerlands_knights" key="Westerlands_Lannisport_MAA_Lance_Cavalry"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="Westerlands_Lannisport_MAA_Swordsmen"></MenAtArm>
+		<MenAtArm type="redcloaks" key="Westerlands_Lannisport_MAA_Swordsmen"></MenAtArm>
+		<MenAtArm type="bloody_balesters" key="Westerlands_Lannisport_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="bowmen" key="Westerlands_Lannisport_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="Westerlands_Lannisport_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="Westerlands_Lannisport_MAA_Spearmen"></MenAtArm>
+		
+		
+		<MenAtArm type="house_guard" key="Westerlands_Lannisport_MAA_Spearmen"></MenAtArm>
+
+		<MenAtArm type="accolade_maa_archers" key="Westerlands_Lannisport_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="Westerlands_Lannisport_MAA_Lance_Cavalry"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="Westerlands_Lannisport_MAA_Mounted_Swordsmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="Westerlands_Lannisport_MAA_Spearmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="Westerlands_Lannisport_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="Westerlands_Lannisport_MAA_Swordsmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="Westerlands_Lannisport_MAA_Longbowmen"></MenAtArm>
+	</Faction>
+	
+	<Faction title_key="c_wayleroot" name="Lordship of Wayleroot">
+		<General key="Riverlands_Vypren_MAA_Lance_Cavalry"></General>
+		<Knights key="Riverlands_Vypren_MAA_Mounted_Swordsmen"></Knights>
+		
+		<MenAtArm type="light_footmen" key="Riverlands_Vypren_MAA_Axemen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="Riverlands_Vypren_MAA_Mounted_Swordsmen"></MenAtArm>
+		<MenAtArm type="westerlands_knights" key="Riverlands_Vypren_MAA_Lance_Cavalry"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="Riverlands_Vypren_MAA_Halberdiers"></MenAtArm>
+		<MenAtArm type="bowmen" key="Riverlands_Vypren_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="Riverlands_Vypren_MAA_Crossbowmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="Riverlands_Vypren_MAA_Pikemen"></MenAtArm>
+		
+		
+		<MenAtArm type="house_guard" key="Riverlands_Vypren_MAA_Billmen"></MenAtArm>
+
+		<MenAtArm type="accolade_maa_archers" key="Riverlands_Vypren_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="Riverlands_Vypren_MAA_Lance_Cavalry"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="Riverlands_Vypren_MAA_Mounted_Swordsmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="Riverlands_Vypren_MAA_Pikemen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="Riverlands_Vypren_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="Riverlands_Vypren_MAA_Billmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="Riverlands_Vypren_MAA_Crossbowmen"></MenAtArm>
+	</Faction>
+	
+		<Faction title_key="c_bluntmark" name="Lordship of Bluntmark">
+		<General key="Crownlands_Rykker_MAA_Lance_Cavalry"></General>
+		<Knights key="Crownlands_Rykker_MAA_Mounted_Swordsmen"></Knights>
+		
+		<MenAtArm type="light_footmen" key="Crownlands_Rykker_MAA_Axemen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="Crownlands_Rykker_MAA_Mounted_Swordsmen"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="Crownlands_Rykker_MAA_Lance_Cavalry"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="Crownlands_Rykker_MAA_Swordsmen"></MenAtArm>
+		<MenAtArm type="bowmen" key="Crownlands_Rykker_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="Crownlands_Rykker_MAA_Crossbowmen"></MenAtArm>
+		<MenAtArm type="royal_crossbowmen" key="Crownlands_Rykker_MAA_Crossbowmen"></MenAtArm>
+		<MenAtArm type="crownlands_spears" key="Crownlands_Rykker_MAA_Spearmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="Crownlands_Rykker_MAA_Pikemen"></MenAtArm>
+		
+		<MenAtArm type="house_guard" key="Crownlands_Rykker_MAA_Billmen"></MenAtArm>
+
+		<MenAtArm type="accolade_maa_archers" key="Crownlands_Rykker_MAA_Longbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="Crownlands_Rykker_MAA_Lance_Cavalry"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="Crownlands_Rykker_MAA_Mounted_Swordsmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="Crownlands_Rykker_MAA_Pikemen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="Crownlands_Rykker_MAA_Axemen"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="Crownlands_Rykker_MAA_Halberdiers"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="Crownlands_Rykker_MAA_Crossbowmen"></MenAtArm>	
+	</Faction>
+	
+</Titles>

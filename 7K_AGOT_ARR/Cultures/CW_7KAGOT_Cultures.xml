@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Cultures>
+
+	<!--All the "name" values will be found in the path below -->
+	<!--Crusader Kings III\game\localization\english\culture-->
+	
+	<!--New heritages & cultures added by mods should be found in the same directory but in their mod folder-->
+
+
+	<Heritage name="heritage_andal" faction="Crownlands">
+		<Culture name="crownlander" faction="Crownlands"></Culture>
+		
+		<Culture name="fingerman" faction="Vale"></Culture>
+		<Culture name="moonman" faction="Vale"></Culture>
+		<Culture name="valeman" faction="Vale"></Culture>
+		
+		<Culture name="harborman" faction="Reach"></Culture>
+		<Culture name="honeywiner" faction="Reach"></Culture>
+		<Culture name="reachman" faction="Reach"></Culture>
+		<Culture name="shieldman" faction="Reach"></Culture>
+		<Culture name="vineman" faction="Reach"></Culture>
+		
+		<Culture name="stone_dornish" faction="Dorne"></Culture>
+		
+		<Culture name="marcher" faction="Stormlands"></Culture>
+		<Culture name="stormlander" faction="Stormlands"></Culture>
+		
+		<Culture name="riverlander" faction="Riverlands"></Culture>
+	
+		<Culture name="westerman" faction="Westerlands"></Culture>
+		<Culture name="andalosi" faction="Crownlands"></Culture>
+		<Culture name="axeman" faction="Crownlands"></Culture>
+		
+	</Heritage>
+
+	<Heritage name="heritage_first_man" faction="North">
+		<Culture name="barrowman" faction="North"></Culture>
+		<Culture name="bearman" faction="North"></Culture>
+		<Culture name="clawman" faction="Crownlands"></Culture>
+		<Culture name="crannogman" faction="North"></Culture>
+		<Culture name="fangman" faction="North"></Culture>	
+		<Culture name="forestman" faction="All_Factions"></Culture>
+		<Culture name="frozen_shoreman" faction="All_Factions"></Culture>
+		<Culture name="hill_clansman" faction="North"></Culture>
+		<Culture name="hornfoot" faction="All_Factions"></Culture>	
+		<Culture name="ice_riverman" faction="All_Factions"></Culture>	
+		<Culture name="krakenman" faction="Iron_Islands"></Culture>
+		<Culture name="lakeman" faction="All_Factions"></Culture>
+		<Culture name="mountain_clansman" faction="Wall"></Culture>	
+		<Culture name="nightrunner" faction="All_Factions"></Culture>
+		<Culture name="northman" faction="North"></Culture>
+		<Culture name="sisterman" faction="Vale"></Culture>
+		<Culture name="skagosi" faction="Wall"></Culture>
+		<Culture name="thenn" faction="All_Factions"></Culture>
+		<Culture name="wolfswood_clansman" faction="North"></Culture>
+	</Heritage>
+
+	<Heritage name="heritage_ironborn" faction="Iron_Islands">
+		<Culture name="greenborn" faction="Iron_Islands"></Culture>
+		<Culture name="ironborn" faction="Iron_Islands"></Culture>	
+	</Heritage>	
+
+	<Heritage name="heritage_rhoynish" faction="Dorne">
+		<Culture name="rhoynish" faction="Essos"></Culture>
+		<Culture name="greenblood" faction="Dorne"></Culture>
+		<Culture name="salt_dornish" faction="Dorne"></Culture>
+		<Culture name="sand_dornish" faction="Dorne"></Culture>
+		<Culture name="selhori" faction="Essos"></Culture>
+		<Culture name="summer_rhoynish" faction="Essos"></Culture>	
+	</Heritage>	
+
+	<Heritage name="heritage_valyrian" faction="Crownlands">
+		<Culture name="high_valyrian" faction="Crownlands"></Culture>
+		<Culture name="westerosi_valyrian" faction="Crownlands"></Culture>
+		<Culture name="essosi_valyrian" faction="Essos"></Culture>
+		<Culture name="braavosi" faction="Essos"></Culture>
+		<Culture name="gogossosi" faction="Essos"></Culture>
+		<Culture name="mantaryan" faction="Essos"></Culture>
+		<Culture name="tolosi" faction="Essos"></Culture>
+		<Culture name="elyrian" faction="Essos"></Culture>
+		<Culture name="volantene" faction="Essos"></Culture>
+		<Culture name="painted_clansman" faction="Essos"></Culture>
+		<Culture name="essarian" faction="Essos"></Culture>
+		<Culture name="lorathi" faction="Essos"></Culture>
+		<Culture name="lyseni" faction="Essos"></Culture>
+		<Culture name="myrish" faction="Essos"></Culture>
+		<Culture name="hartalari" faction="Essos"></Culture>
+		<Culture name="norvoshi" faction="Essos"></Culture>
+		<Culture name="pentoshi" faction="Essos"></Culture>
+		<Culture name="qohorik" faction="Essos"></Culture>
+		<Culture name="tyroshi" faction="Essos"></Culture>
+	</Heritage>	
+
+	
+</Cultures>
+
+		
+
