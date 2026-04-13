@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version='1.0' encoding='utf-8'?>
 <Mods>
-	<Mod>realistic_infantry_overhaul_1212.pack</Mod>	
-	<Mod>realistic_missile_overhaul_1212.pack</Mod>			
-	<Mod>realistic_cavalry_1212.pack</Mod>	
+	<Mod>realistic_infantry_overhaul_1212.pack</Mod>
+	<Mod>realistic_missile_overhaul_1212.pack</Mod>
+	<Mod>realistic_cavalry_1212.pack</Mod>
 	<Mod>@ave_cilicia_revamp_mk1212.pack</Mod>
 	<Mod>1212compbuild_v2.pack</Mod>
 	<Mod>1212models1_v2.pack</Mod>
@@ -15,5 +15,3 @@
 	<Mod>1212models8.pack</Mod>
 	<Mod>1212models9.pack</Mod>
 </Mods>
-
-		

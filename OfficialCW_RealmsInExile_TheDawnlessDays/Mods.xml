@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
-	<Mods>
+<?xml version='1.0' encoding='utf-8'?>
+<Mods>
 	<Mod>rom_exe_extended_elves.pack</Mod>
 	<Mod>war_for_the_mountains.pack</Mod>
 	<Mod>the_last_breath.pack</Mod>
@@ -10,5 +10,4 @@
 	<Mod>tdd_pack4_models_1.0.0.pack</Mod>
 	<Mod>tdd_pack5_buildings_1.0.0.pack</Mod>
 	<Mod>tdd_pack6_weather_1.0.0.pack</Mod>
-    </Mods>
-
+</Mods>
