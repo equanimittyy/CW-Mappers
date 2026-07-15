@@ -2435,7 +2435,7 @@
 		<General key="att_nom_hunnic_warlord"></General>
 		<Knights key="att_nom_hunnic_devil_cavalry"></Knights>
 		<Levies porcentage="60" key="att_nom_steppe_mounted_bows" max="LEVY"></Levies>
-		<Levies porcentage="30" key="att_nom_noble_horse_archers_hun" max="LEVY"></Levies>
+		<Levies porcentage="30" key="att_nom_hunnic_horse_archers" max="LEVY"></Levies>
 		<Levies porcentage="10" key="att_nom_noble_horse_archers" max="LEVY"></Levies>
 		<MenAtArm type="accolade_maa_archers" key="cha_avar_tribesmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_hunnic_devil_archers" max="CAVALRY"></MenAtArm>
@@ -2462,7 +2462,7 @@
 		<MenAtArm type="maa_thieves" key="att_nom_steppe_levy" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mangonel" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="nomad_lancers" key="att_nom_elite_hunnic_lancers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="nomadic_riders" key="att_nom_noble_horse_archers_hun" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomadic_riders" key="att_nom_hunnic_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="onager" key="att_nom_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_nom_hunnic_spears" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
