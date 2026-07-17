@@ -75,6 +75,7 @@
 		<MenAtArm type="cataphract" key="mk_tre_t2_katapraktos_hippotoxotes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cataphract_archers" key="mk_rum_t2_kapikulu_ulufecis" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="chasseur" key="mk_jer_t2_turcopole_scouts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="cloud_ladder" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="conrois" key="mk_pap_t2_merc_comp" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cossack_cavalry" key="mk_merc_rus_t3_cossacks" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_tri_t2_elector_crossbowmen" max="RANGED"></MenAtArm>
@@ -210,6 +211,7 @@
 		<MenAtArm type="shotel_warriors" key="mk_zag_t3_shotelai" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="sibyan_alkhass" key="mk_ayy_t2_mamluk_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="sicilian_archers" key="mk_alm_t2_maghrebi_rumat" max="RANGED"></MenAtArm>
+		<MenAtArm type="siege_tower" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="sipahi_lancers" key="mk_rum_t2_rumeli_timarli_sipahis" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="sipahis" key="mk_rum_t2_anatolian_timarli_sipahi" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="mk_nic_t2_megaloallagitai_spearmen" max="INFANTRY"></MenAtArm>
@@ -234,6 +236,7 @@
 		<MenAtArm type="welsh_rhyfelwyr" key="mk_wel_t2_rhyfelwyr" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="welsh_saethwyr" key="mk_wel_t2_teulu_saethwyr" max="RANGED"></MenAtArm>
 		<MenAtArm type="welsh_teulu" key="mk_wel_t2_marchog" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="teulu" key="mk_wel_t2_marchog" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="woodsmen" key="mk_lit_t2_skirmishers" max="RANGED"></MenAtArm>
 		<MenAtArm type="yeoman_archers" key="earl_eng_t2_longbowmen_mounted" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="mk_pol_t2_heavy_axemen" max="INFANTRY"></MenAtArm>

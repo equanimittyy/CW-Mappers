@@ -236,6 +236,7 @@
 		<MenAtArm type="welsh_rhyfelwyr" key="att_cel_celtic_warband" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="welsh_saethwyr" key="att_cel_highland_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="welsh_teulu" key="cha_cel_royal_horsemen" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="teulu" key="cha_cel_royal_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="woodsmen" key="BAL_woodsmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="yeoman_archers" key="cha_cel_welsh_longbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="cha_slav_prvaci" max="INFANTRY"></MenAtArm>
