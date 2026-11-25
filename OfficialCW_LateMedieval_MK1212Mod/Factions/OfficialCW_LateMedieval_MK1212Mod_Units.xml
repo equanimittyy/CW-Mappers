@@ -81,9 +81,7 @@
 		<MenAtArm type="cossack_cavalry" key="mk_merc_rus_t3_cossacks" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_tri_t2_elector_crossbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="danish_obudshaer" key="mk_bur_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="danish_obudshaer " key="mk_nor_t2_landevern" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="danish_svenner" key="earl_dan_t2_cavalry" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="danish_svenner " key="mk_han_t2_hanse_lance" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="dievas_guard" key="mk_volga_t2_chirmesh_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="druzhina" key="mk_rus_t2_dismounted_boyar" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="druzhina_cavalry" key="mk_rus_t2_boyars" max="CAVALRY"></MenAtArm>
@@ -160,7 +158,6 @@
 		<MenAtArm type="maa_poachers" key="mk_merc_wel_t2_longbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="maa_thieves" key="mk_merc_ita_t2_ronconieri" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mamluk_cavalry" key="mk_ayy_t2_amirs_mamluk" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="mande_hunter" key="mk_mak_t2_nubian_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="mangudai" key="mk_gold_t2_khisigten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="marc_hegion" key="mk_wel_t2_marchog" max="CAVALRY"></MenAtArm>
@@ -169,7 +166,6 @@
 		<MenAtArm type="milan_famiglia_ducale" key="mk_mil_t1_bodyguard" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="monaspa" key="mk_georg_t2_monaspa_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="mongol_cataphract" key="mk_mon_t2_ilkhan_heavy_lancers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="mongolian_horse_archers" key="mk_gold_t2_khorchi_khisigten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="mountaineer" key="mk_mon_t2_golden_tserig_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mubarizun" key="mk_abb_t2_dismounted_mamluks" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mulaththamun" key="mk_alm_t2_shaykh_al_ghuzat" max="CAVALRY"></MenAtArm>
@@ -182,11 +178,8 @@
 		<MenAtArm type="order_knights" key="mk_mio_t2_templar_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="order_serjeants" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="outremer_bowmen" key="mk_merc_arm_t2_armenian_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="outremer_bowmen " key="mk_arm_t2_bourdjes_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="outremer_heavy_cavalry" key="mk_mio_t2_templar_knights" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="outremer_heavy_cavalry " key="mk_mio_t2_templar_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="outremer_turcopoles" key="mk_jer_t2_turcopoles" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="outremer_turcopoles " key="mk_jer_t2_turcopoles" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="paiks" key="mk_ghu_t2_dhanuks" max="RANGED"></MenAtArm>
 		<MenAtArm type="palace_guards" key="mk_mon_t2_golden_tserig_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pavise_spearmen" key="mk_hun_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
@@ -218,17 +211,15 @@
 		<MenAtArm type="sipahi_lancers" key="mk_rum_t2_rumeli_timarli_sipahis" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="sipahis" key="mk_rum_t2_anatolian_timarli_sipahi" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="mk_nic_t2_megaloallagitai_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="sofa " key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="sofa" key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="spanish_jinete" key="mk_cas_t2_jinetes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_gold_t2_mongol_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_ilkhan_t2_nokor" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tawashi" key="mk_ayy_t1_tawashiyya_lancers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="tiefutu" key="mk_gold_t2_baatar_khisigten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_mon_t1_qaraghul" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 		<MenAtArm type="turkish_azabs" key="mk_rum_t3_azab_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="turkish_horse_archers" key="mk_rum_t2_anatolian_timarli_sipahi" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="turkish_qapukulu" key="mk_rum_t2_kapikulu_sipahis" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="varangian_guards" key="mk_nic_t2_englinovarangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="varangian_veterans" key="earl_dan_t2_noble" max="INFANTRY"></MenAtArm>
@@ -283,7 +274,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_abb_t2_jund_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Aenglish">
@@ -319,7 +309,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_eng_t2_billmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere" max="INFANTRY"></MenAtArm>
 	</Faction>
@@ -360,7 +349,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ghu_t2_afghan_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Alan">
@@ -396,7 +384,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_georg_t2_metsikhovne_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Albanian">
@@ -432,7 +419,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_alb_t3_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Andalusian">
@@ -474,7 +460,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_gran_t2_andalusian_jund_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="earl_haf_t2_tunisian_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Aragonese">
@@ -509,7 +494,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ara_t2_voulgier_sergeants" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Armenian">
@@ -546,7 +530,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_arm_t2_spear_serzhantner" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_arm_t2_dismounted_dziaworner" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Austrian">
@@ -581,7 +564,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_aus_t2_fussknechte" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Baltic">
@@ -617,7 +599,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_lit_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_lit_t2_dismounted_bajorija" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Baltic Finnic">
@@ -653,7 +634,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_lit_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_lit_t1_ducal_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Baranis">
@@ -693,7 +673,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_alm_t2_uluj_infantry" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="earl_haf_t2_tunisian_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Basque">
@@ -728,7 +707,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_nav_t2_spear_sergeants" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bavarian">
@@ -757,7 +735,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_hre_t2_fussknecht" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bedouin">
@@ -796,7 +773,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_alm_t2_shaykh_dismounted_retainers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bohemian">
@@ -831,7 +807,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_boh_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bolghar">
@@ -874,7 +849,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_volga_t2_chirmesh_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_volga_t2_chirmesh_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_volga_t2_elite_cav" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_volga_t2_skirmisher_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -910,7 +884,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_bos_t2_vojnici_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Brabantian">
@@ -940,7 +913,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_brab_t2_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Breton">
@@ -969,7 +941,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_bur_t2_voulgier" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bulgarian">
@@ -1005,7 +976,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_bulg_t2_heavy_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rus_t2_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Burgundian">
@@ -1034,7 +1004,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_bur_t2_voulgiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Burmese">
@@ -1072,7 +1041,6 @@
 		<MenAtArm type="mangonel" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ghu_t2_paik_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ghu_t2_royal_paiks" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mon_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Butr">
@@ -1112,7 +1080,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_alm_t2_shaykh_dismounted_retainers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="earl_haf_t2_tunisian_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Byzantine">
@@ -1149,7 +1116,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_nic_t2_menavlatoi" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Carantanian">
@@ -1184,7 +1150,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_aus_t2_fussknechte" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Castilian">
@@ -1218,7 +1183,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_cas_t2_voulgiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Cisalpine">
@@ -1248,7 +1212,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_mil_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_mil_t2_ronconieri" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Copt">
@@ -1287,7 +1250,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ant_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_jer_t2_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Croatian">
@@ -1322,7 +1284,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_croat_T2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Cuman">
@@ -1364,7 +1325,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_cuman_t2_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_cuman_t2_light_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_cuman_t2_nogers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_cuman_t2_dismounted_nogers" max="RANGED"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_cuman_t1_skirmisher_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mon_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -1399,7 +1359,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ven_t2_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Danelander">
@@ -1438,7 +1397,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_dan_t2_landevaern_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Danish">
@@ -1472,7 +1430,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_dan_t2_huskarls_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Daylamite">
@@ -1511,7 +1468,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_per_t2_qolloghchi_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Egyptian">
@@ -1551,7 +1507,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ayy_t2_halqa_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="English">
@@ -1583,7 +1538,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_eng_t2_billmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Estonian">
@@ -1619,7 +1573,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_dan_t2_landevaern_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_dan_t2_castle_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Ethiopian">
@@ -1655,7 +1608,6 @@
 		<MenAtArm type="mangonel" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_zag_t2_gondarian_infantry" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_zag_t2_jan_infantry" max="RANGED"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Flemish">
@@ -1687,7 +1639,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_fla_t2_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Florentine">
@@ -1717,7 +1668,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_pis_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_flo_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Franconian">
@@ -1746,7 +1696,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_hre_t2_fussknecht" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="French">
@@ -1775,7 +1724,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_fre_t2_voulgiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Gaelic">
@@ -1805,7 +1753,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_wel_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Genoan">
@@ -1835,7 +1782,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_gen_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_gen_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Georgian">
@@ -1871,7 +1817,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_georg_t2_metsikhovne_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_georg_t2_tadzreuli_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="German">
@@ -1900,7 +1845,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_hre_t2_fussknecht" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Gothic">
@@ -1937,7 +1881,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_tre_t2_menavlatoi" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Horn African">
@@ -1978,7 +1921,6 @@
 		<MenAtArm type="mangonel" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_zag_t2_spear_sewa" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_zag_t2_jan_infantry" max="RANGED"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Hungarian">
@@ -2016,7 +1958,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_hun_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Indian">
@@ -2054,7 +1995,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ghu_t2_royal_paiks" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ghu_t2_rajputs" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Irish">
@@ -2084,7 +2024,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_eng_t2_welsh_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Khorasani">
@@ -2124,7 +2063,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ilkhan_t2_tserig_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Khwarazmian">
@@ -2164,7 +2102,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_per_t2_khorasani_muttawwia" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Kurdish">
@@ -2204,7 +2141,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_per_t2_qolloghchi_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Lithuanian">
@@ -2241,7 +2177,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_lit_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_lit_t2_dismounted_bajorija" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Lothringian">
@@ -2270,7 +2205,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_lor_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Maghrebi">
@@ -2310,7 +2244,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_haf_t2_italian_mercenaries" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="earl_haf_t2_tunisian_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Magyar">
@@ -2352,7 +2285,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_vlach_t2_voynik_archer_spearmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_cuman_t2_light_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_cuman_t2_nogers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_cuman_t1_skirmisher_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -2389,7 +2321,6 @@
 		<MenAtArm type="mangonel" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_gold_t2_tserig_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rum_t2_noker_foot_guards" max="RANGED"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mon_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Mordvin">
@@ -2426,7 +2357,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_mold_t2_voinici_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rus_t2_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Mozarab">
@@ -2468,7 +2398,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_alm_t2_uluj_infantry" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="earl_gran_t2_dismounted_malughun" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Neopolitan">
@@ -2498,7 +2427,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_fre_t2_piquichins" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_nap_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="New English">
@@ -2542,7 +2470,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_eng_t2_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_cuman_t2_light_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_cuman_t2_nogers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_cuman_t1_skirmisher_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -2577,7 +2504,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_dan_t2_huskarls_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Norse Gael">
@@ -2611,7 +2537,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_nor_t2_landevern" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere" max="INFANTRY"></MenAtArm>
 	</Faction>
@@ -2647,7 +2572,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_nor_t2_landevern" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere" max="INFANTRY"></MenAtArm>
 	</Faction>
@@ -2684,7 +2608,6 @@
 		<MenAtArm type="mangonel" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_mak_t2_nubian_quilted_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_zag_t2_jan_infantry" max="RANGED"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Occitan">
@@ -2715,7 +2638,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_tou_t2_communal_pavisiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Ottoman">
@@ -2755,7 +2677,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_rum_t2_martolos_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rum_t3_kapikulu_heavy_infantry" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Outremer">
@@ -2790,7 +2711,6 @@
 		<MenAtArm type="outremer_heavy_cavalry" key="mk_mio_t2_templar_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="outremer_turcopoles" key="mk_jer_t2_turcopoles" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_jer_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Papal States">
@@ -2820,7 +2740,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_pap_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pap_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Pecheneg">
@@ -2862,7 +2781,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_mold_t2_voinici_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_cuman_t2_light_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_cuman_t2_nogers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_cuman_t2_dismounted_nogers" max="RANGED"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_cuman_t1_skirmisher_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mon_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -2903,7 +2821,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_khw_t2_piyadegan" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Pisan">
@@ -2933,7 +2850,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_pis_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pis_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Polish">
@@ -2968,7 +2884,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pol_t2_halberdier" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Portuguese">
@@ -3002,7 +2917,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_por_t2_milicia_concelhia" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Prussian">
@@ -3038,7 +2952,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_teu_t2_voulgiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_lit_t2_dismounted_bajorija" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Roman">
@@ -3070,7 +2983,6 @@
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_epi_t2_menavlatoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_lat_t2_kastrenoi_burgenses" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Roman African">
@@ -3109,7 +3021,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_epi_t2_megaloallagitai_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_epi_t2_englinovarangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Rus">
@@ -3146,7 +3057,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_rus_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rus_t2_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Sahelian">
@@ -3185,7 +3095,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_alm_t2_abid_al_makhzan" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="earl_mar_t2_tuareg_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Sardinian">
@@ -3215,7 +3124,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_gen_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ara_t2_voulgier_sergeants" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Savoyard">
@@ -3244,7 +3152,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pis_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Saxon">
@@ -3273,7 +3180,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_hre_t2_fussknecht" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Scottish">
@@ -3303,7 +3209,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_lor_t2_pikes" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Seljuk">
@@ -3349,7 +3254,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_ilkhan_t2_tserig_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_ilkhan_t2_mongol_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_ilkhan_t2_baatar_khisigten" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_rum_t2_musellem" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -3385,7 +3289,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_serb_t2_vojnici_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rus_t2_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Shirvani">
@@ -3425,7 +3328,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_per_t2_qolloghchi_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ayy_t2_tabardariyya" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Siberian">
@@ -3461,7 +3363,6 @@
 		<MenAtArm type="mangonel" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_gold_t2_tserig_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rus_t2_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mon_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Sicilian">
@@ -3491,7 +3392,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_gen_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_sic_t2_ronconieri" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Silesian">
@@ -3526,7 +3426,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pol_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Slovianskan">
@@ -3561,7 +3460,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pol_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_pol_t2_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Swabian">
@@ -3590,7 +3488,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_swi_t2_eidgenossen_halberdiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Swedish">
@@ -3624,7 +3521,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_dan_t2_huskarls_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Swiss">
@@ -3654,7 +3550,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_swi_t2_auszug_halberdiers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_swi_t2_eidgenossen_halberdiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Syriac">
@@ -3690,7 +3585,6 @@
 		<MenAtArm type="mangonel" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mus_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_rum_t2_martolos_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Teutonic">
@@ -3726,7 +3620,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_teu_t2_pavise_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Tibetan">
@@ -3767,7 +3660,6 @@
 		<MenAtArm type="mangonel" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_mon_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_volga_t2_chirmesh_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mon_t1_fire_lance_infantry" max="RANGED"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mon_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Trebizond">
@@ -3805,7 +3697,6 @@
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_tre_t2_menavlatoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="mk_tre_t2_scoutatoi" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Trierer">
@@ -3835,7 +3726,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_tri_t2_trier_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Turko Persian">
@@ -3880,7 +3770,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_ilkhan_t2_tserig_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="mk_ilkhan_t2_mongol_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_ilkhan_t2_baatar_khisigten" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_ilkhan_t2_dismounted_nokor" max="RANGED"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="mk_mon_t1_qaraghul" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
@@ -3911,7 +3800,6 @@
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_ven_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_ven_t2_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Vlach">
@@ -3949,7 +3837,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_vlach_t2_voynik_archer_spearmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_rus_t2_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Welsh">
@@ -3981,7 +3868,6 @@
 		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_wel_t2_billmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="West African">
@@ -4017,7 +3903,6 @@
 		<MenAtArm type="mangonel" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_afr_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_mak_t2_nubian_quilted_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_mak_t3_nubian_quilted_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_mus_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Wylish">
@@ -4048,7 +3933,6 @@
 		<MenAtArm type="mangonel" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="mk_byz_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_epi_t2_megaloallagitai_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mk_epi_t2_englinovarangoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_byz_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 </FactionsGroups>

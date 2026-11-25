@@ -8,14 +8,11 @@
 		<General key="att_rom_magister_militum"></General>
 		<Knights key="att_rom_excubitores_cavalry_guard"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="att_rom_armoured_sagittarii" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_camel_riders" key="att_rom_imperial_dromedarii" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_crossbowmen" key="att_rom_elite_ballistarii" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="ERE_boukelaroi_toxotai" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="ERE_leones_clib" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="ERE_limitanei_levy_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="att_rom_numeroi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="att_rom_exculcatores" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="att_rom_hetaireia_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="ERE_bucellarii_pedites" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="ERE_patrikos_obsequium" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_rom_armoured_sagittarii" max="RANGED"></MenAtArm>
@@ -26,18 +23,15 @@
 		<MenAtArm type="light_footmen" key="att_rom_levis_armaturae" max="RANGED"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="ERE_equites_tertio_dalmatae" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="ERE_quartoparthoi_swords" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2" max="INFANTRY"></MenAtArm>
 	</Faction>
 	<Faction title_key="e_france" name="French Empire">
 		<General key="cha_fra_paladin_guardsmen"></General>
 		<Knights key="cha_fra_guardsmen"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="cha_fra_mounted_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_crossbowmen" key="att_rom_elite_ballistarii" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_fra_scola_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_fra_cheval_javeloz" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_fra_palace_guard" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_fra_sword" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="cha_fra_mounted_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="cha_fra_mounted_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_fra_scola_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="cha_fra_mounted_archers" max="RANGED"></MenAtArm>
@@ -46,18 +40,15 @@
 		<MenAtArm type="light_footmen" key="cha_fra_skirm" max="RANGED"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_fra_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_fra_mounted_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 	</Faction>
 	<Faction title_key="e_outremer" name="Outremer">
 		<General key="cha_fra_paladin_guardsmen"></General>
 		<Knights key="cha_fra_guardsmen"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="cha_fra_mounted_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_crossbowmen" key="att_rom_elite_ballistarii" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_fra_scola_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_fra_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_fra_palace_guard" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_fra_skirm" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="cha_fra_mounted_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="cha_fra_mounted_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_fra_scola_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="cha_mus_armoured_archers" max="RANGED"></MenAtArm>
@@ -66,6 +57,5 @@
 		<MenAtArm type="light_footmen" key="cha_mus_andalusian_skirm" max="RANGED"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_mus_berber_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_fra_mounted_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 	</Faction>
 </Titles>

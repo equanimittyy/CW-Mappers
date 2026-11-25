@@ -81,9 +81,7 @@
 		<MenAtArm type="cossack_cavalry" key="att_alan_sarmatian_shock_tier_1" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="cha_cel_pictish_crossbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="danish_obudshaer" key="att_nor_elite_duguth_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="danish_obudshaer " key="cha_nor_lancent_armeure" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="danish_svenner" key="att_nor_nordic_horse_raiders" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="danish_svenner " key="cha_slav_raiders" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="dievas_guard" key="att_slav_svarogs_raiders" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="druzhina" key="att_slav_peruns_champions" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="druzhina_cavalry" key="cha_slav_royal_cav" max="CAVALRY"></MenAtArm>
@@ -160,7 +158,6 @@
 		<MenAtArm type="maa_poachers" key="BRIT_saethwyr" max="RANGED"></MenAtArm>
 		<MenAtArm type="maa_thieves" key="BRIT_aulue" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mamluk_cavalry" key="mubs_asawira" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="mande_hunter" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="mangudai" key="att_nom_steppe_mounted_tribespeople" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="marc_hegion" key="cha_bre_armorican_cav" max="CAVALRY"></MenAtArm>
@@ -169,7 +166,6 @@
 		<MenAtArm type="milan_famiglia_ducale" key="cha_lom_gastald_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="monaspa" key="att_alan_sarmatian_cataphracts_infantry_destroyer_tier_5" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="mongol_cataphract" key="att_nom_elite_hunnic_lancers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="mongolian_horse_archers" key="HEP_spet_xyon_noble_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="mountaineer" key="KOK_axe_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mubarizun" key="mubs_mubarizun" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mulaththamun" key="mubs_mulathanum" max="CAVALRY"></MenAtArm>
@@ -182,11 +178,8 @@
 		<MenAtArm type="order_knights" key="cha_nor_noblei_chevalers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="order_serjeants" key="cha_gen_armoured_sword" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="outremer_bowmen" key="cha_byz_armoured_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="outremer_bowmen " key="cha_mus_armoured_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="outremer_heavy_cavalry" key="cha_nor_noblei_chevalers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="outremer_heavy_cavalry " key="cha_nor_chef" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="outremer_turcopoles" key="HEP_steppe_lancers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="outremer_turcopoles " key="KOK_cha_gen_skirm_cav" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="paiks" key="HEP_hindi_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="palace_guards" key="KOK_cha_gen_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pavise_spearmen" key="cha_sax_spear_veterans" max="INFANTRY"></MenAtArm>
@@ -218,17 +211,15 @@
 		<MenAtArm type="sipahi_lancers" key="KOK_cha_bre_armorican_cav" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="sipahis" key="att_nom_hunnic_devil_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="bel_rom_skutatoi_spears_1" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="sofa " key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="sofa" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="spanish_jinete" key="cha_spa_jinetes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_first_wave_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_est_zhayedan_immortal_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tawashi" key="SAS_fursan" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="tiefutu" key="att_nom_noble_steppe_cataphracts" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_byz_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="turkish_azabs" key="KOK_steppe_bows" max="RANGED"></MenAtArm>
-		<MenAtArm type="turkish_horse_archers" key="kok_oq_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="turkish_qapukulu" key="KOK_cha_bre_armorican_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="varangian_guards" key="cha_eng_huscarlas" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="varangian_veterans" key="cha_vik_housecarls" max="INFANTRY"></MenAtArm>
@@ -280,7 +271,6 @@
 		<MenAtArm type="mangonel" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_mus_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mubs_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mubs_house_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Alan">
@@ -314,7 +304,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_alan_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_ger_alani_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_ger_agathyrsi_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Andalusian">
@@ -352,7 +341,6 @@
 		<MenAtArm type="mangonel" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_mus_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_mus_berber_warriors" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_mus_umayyad_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Anglo Saxon">
@@ -380,7 +368,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_eng_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_eng_thegn_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Armenian">
@@ -417,7 +404,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="MERC_armenian_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ARM_foot_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_sassanid_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Assyrian">
@@ -455,7 +441,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="GHAS_banu_judham_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Baltic">
@@ -481,7 +466,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="BAL_shieldwall" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_slav_veles_chosen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Baranis">
@@ -518,7 +502,6 @@
 		<MenAtArm type="mangonel" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mubs_maghrebi_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mubs_house_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Basque">
@@ -547,7 +530,6 @@
 		<MenAtArm type="mangonel" key="cha_spa_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_cel_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="bas_noble_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="bas_nobles" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_spa_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bedouin">
@@ -583,7 +565,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mubs_bedouin_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mubs_house_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bolghar">
@@ -623,7 +604,6 @@
 		<MenAtArm type="pikemen_unit" key="att_nom_hunnic_spears" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_hunnic_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_nom_shamans_of_the_eternal_sky" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_steppe_mounted_brigands" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
@@ -649,7 +629,6 @@
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_gen_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_fra_mounted_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Brythonic">
@@ -676,7 +655,6 @@
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_cel_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_cel_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Bulgarian">
@@ -712,7 +690,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_ger_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="LOM_gasindii_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Burmese">
@@ -744,7 +721,6 @@
 		<MenAtArm type="mangonel" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_avar_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_wh_xionite_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="KOK_cha_gen_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Butr">
@@ -781,7 +757,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mubs_maghrebi_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mubs_house_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Byzantine">
@@ -817,7 +792,6 @@
 		<MenAtArm type="mangonel" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_rom_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="ERE_transtigritiani_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Copt">
@@ -851,7 +825,6 @@
 		<MenAtArm type="mangonel" key="MERC_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_des_shawia_guard" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_athars_chosen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="MERC_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Coptic">
@@ -885,7 +858,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_des_es_elite_tor_warriors" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_sons_of_the_invincible_mahrem" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Crimean Steppe">
@@ -924,7 +896,6 @@
 		<MenAtArm type="pikemen_unit" key="cha_avar_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="cha_avar_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_nom_shamans_of_the_eternal_sky" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
@@ -950,7 +921,6 @@
 		<MenAtArm type="mangonel" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_lom_guardsmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Danelander">
@@ -978,7 +948,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_eng_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_eng_thegn_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_vik_berserkers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Daylamite">
@@ -1013,7 +982,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_est_armenian_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="SAS_soghdian_footmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_sassanid_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Eastern Steppe">
@@ -1054,7 +1022,6 @@
 		<MenAtArm type="pikemen_unit" key="att_wh_xionite_spears" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_first_wave_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_nom_shamans_of_the_eternal_sky" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
@@ -1091,7 +1058,6 @@
 		<MenAtArm type="mangonel" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_mus_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mubs_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mubs_house_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="English">
@@ -1119,7 +1085,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_eng_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_nor_lancent" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Finnic">
@@ -1145,7 +1110,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_slav_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_slav_followers_veles" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Franconian">
@@ -1170,7 +1134,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_fra_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_fra_mounted_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Frankish">
@@ -1195,7 +1158,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_fra_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_fra_armoured_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Gaelic">
@@ -1222,7 +1184,6 @@
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_cel_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_cel_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Georgian">
@@ -1255,7 +1216,6 @@
 		<MenAtArm type="mangonel" key="MERC_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_nom_scirii_warriors" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ARM_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="MERC_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Gothic">
@@ -1285,7 +1245,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_ger_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_ger_germanic_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_ger_germanic_nobles" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Hephthalite">
@@ -1326,7 +1285,6 @@
 		<MenAtArm type="pikemen_unit" key="att_est_persian_levy" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_est_sogdian_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
@@ -1363,7 +1321,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_des_es_tanukhid_pikes" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_zafar_sentinels" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Horn African">
@@ -1402,7 +1359,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_des_es_sons_of_the_invincible_mahrem" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_behers_chosen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Hungarian">
@@ -1433,7 +1389,6 @@
 		<MenAtArm type="mangonel" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_avar_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Iberian">
@@ -1458,7 +1413,6 @@
 		<MenAtArm type="mangonel" key="cha_spa_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_spa_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_spa_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_spa_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Indian">
@@ -1492,7 +1446,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_des_desert_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_zealot_sicarius" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Indo Persian">
@@ -1527,7 +1480,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_est_armenian_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_est_sogdian_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Irish">
@@ -1554,7 +1506,6 @@
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_cel_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_cel_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Khorasani">
@@ -1590,7 +1541,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_est_persian_levy" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="SAS_soghdian_footmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_sassanid_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Kurdish">
@@ -1626,7 +1576,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="GHAS_banu_judham_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="SAS_soghdian_footmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_sassanid_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Lombard">
@@ -1651,7 +1600,6 @@
 		<MenAtArm type="mangonel" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_lom_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_lom_guardsmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Maghrebi">
@@ -1687,7 +1635,6 @@
 		<MenAtArm type="mangonel" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_mus_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mubs_maghrebi_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="mubs_house_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_mus_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="New English">
@@ -1730,7 +1677,6 @@
 		<MenAtArm type="pikemen_unit" key="cha_eng_thegn_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="cha_avar_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
@@ -1756,7 +1702,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_fra_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_nor_lancent" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Norse Gael">
@@ -1782,7 +1727,6 @@
 		<MenAtArm type="mangonel" key="cha_cel_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_cel_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_cel_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_vik_berserkers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_cel_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Outremer">
@@ -1816,7 +1760,6 @@
 		<MenAtArm type="outremer_heavy_cavalry" key="cha_nor_noblei_chevalers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="outremer_turcopoles" key="HEP_steppe_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_fra_mounted_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Papal">
@@ -1842,7 +1785,6 @@
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_gen_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_gen_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Permian">
@@ -1874,7 +1816,6 @@
 		<MenAtArm type="mangonel" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_nom_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_nom_hunnic_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_slav_followers_veles" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Persian">
@@ -1910,7 +1851,6 @@
 		<MenAtArm type="mangonel" key="att_est_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_est_armenian_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="SAS_soghdian_footmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_est_sassanid_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Roman">
@@ -1937,7 +1877,6 @@
 		<MenAtArm type="mangonel" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_rom_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_rom_western_auxilia_palatina" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Roman African">
@@ -1974,7 +1913,6 @@
 		<MenAtArm type="mangonel" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="ERE_lykokranitai_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="REB_heretic_outcasts" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Romano-Briton">
@@ -2004,7 +1942,6 @@
 		<MenAtArm type="mangonel" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_rom_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_rom_comitatensis_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_rom_protectores_domestici" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Rus">
@@ -2029,7 +1966,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_slav_chosen_shields" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_vik_berserkers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Sahelian">
@@ -2064,7 +2000,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="GARAM_tuareg_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_behers_chosen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Sardinian">
@@ -2091,7 +2026,6 @@
 		<MenAtArm type="mangonel" key="cha_byz_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_byz_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_gen_armoured_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_byz_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Saxon">
@@ -2116,7 +2050,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_sax_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_sax_spear_veterans" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Scots">
@@ -2144,7 +2077,6 @@
 		<MenAtArm type="mangonel" key="cha_cel_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_cel_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_eng_thegn_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_cel_fianna" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_cel_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Slavic">
@@ -2170,7 +2102,6 @@
 		<MenAtArm type="mangonel" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_slav_large_shields" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_vik_berserkers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_lom_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="South Arabian">
@@ -2206,7 +2137,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="GHAS_banu_judham_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_noble_al_rahrain" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Syriac">
@@ -2243,7 +2173,6 @@
 		<MenAtArm type="mangonel" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_merc_est_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="GHAS_limitanei" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_rom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Teutonic">
@@ -2269,7 +2198,6 @@
 		<MenAtArm type="mangonel" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_sax_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_sax_spear_veterans" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_fra_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Tibetan">
@@ -2304,7 +2232,6 @@
 		<MenAtArm type="mangonel" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_avar_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_wh_xionite_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="KOK_axe_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Turkic">
@@ -2345,7 +2272,6 @@
 		<MenAtArm type="pikemen_unit" key="att_nom_uar_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="KOK_cha_bre_armorican_knights" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_nom_shamans_of_the_eternal_sky" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
@@ -2371,7 +2297,6 @@
 		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="cha_vik_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_gen_armoured_spear" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="cha_vik_berserkers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Wendish">
@@ -2398,7 +2323,6 @@
 		<MenAtArm type="mangonel" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_slav_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_ger_germanic_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_slav_veles_chosen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_ger_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="West African">
@@ -2432,7 +2356,6 @@
 		<MenAtArm type="mangonel" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="onager" key="att_des_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="GARAM_amxzni_spears" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_des_es_behers_chosen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_des_onager_bastion" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction name="Western Steppe">
@@ -2471,7 +2394,6 @@
 		<MenAtArm type="pikemen_unit" key="att_nom_hunnic_spears" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="teutonic_knights" key="att_nom_shamans_of_the_eternal_sky" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="att_nom_onager_large" max="RANGED"></MenAtArm>
 	</Faction>
