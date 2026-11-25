@@ -76,6 +76,7 @@
 		<MenAtArm type="cataphract_archers" key="kok_oq_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="chasseur" key="cha_lom_gastald_cav" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cloud_ladder" key="cha_gen_onager" max="RANGED"></MenAtArm>
+		<MenAtArm type="condottieri" key="cha_gen_noble_cav" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="conrois" key="cha_nor_chef" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cossack_cavalry" key="att_alan_sarmatian_shock_tier_1" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="cha_cel_pictish_crossbowmen" max="RANGED"></MenAtArm>
@@ -178,6 +179,8 @@
 		<MenAtArm type="norman_knights" key="cha_nor_chef" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="numdian" key="att_des_noble_numidian_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="onager" key="cha_gen_onager" max="RANGED"></MenAtArm>
+		<MenAtArm type="order_knights" key="cha_nor_noblei_chevalers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="order_serjeants" key="cha_gen_armoured_sword" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="outremer_bowmen" key="cha_byz_armoured_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="outremer_bowmen " key="cha_mus_armoured_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="outremer_heavy_cavalry" key="cha_nor_noblei_chevalers" max="CAVALRY"></MenAtArm>

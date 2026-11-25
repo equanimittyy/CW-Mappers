@@ -76,6 +76,7 @@
 		<MenAtArm type="cataphract_archers" key="mk_rum_t3_kapikulu_ulufecis" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="chasseur" key="mk_jer_t3_turcopole_scouts" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cloud_ladder" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
+		<MenAtArm type="condottieri" key="mk_merc_ita_t3_condottieri" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="conrois" key="mk_merc_ita_t3_condottieri" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cossack_cavalry" key="mk_merc_rus_t3_cossacks" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_merc_gen_t3_genoese_crossbowmen" max="RANGED"></MenAtArm>
@@ -178,6 +179,8 @@
 		<MenAtArm type="norman_knights" key="mk_lat_t3_chevaliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="numdian" key="mk_haf_t3_kabyle_tribal_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
+		<MenAtArm type="order_knights" key="mk_mio_t3_templar_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="order_serjeants" key="mk_mio_t3_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="outremer_bowmen" key="mk_merc_arm_t3_armenian_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="outremer_bowmen " key="mk_arm_t3_bourdjes_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="outremer_heavy_cavalry" key="mk_mio_t3_templar_knights" max="CAVALRY"></MenAtArm>
