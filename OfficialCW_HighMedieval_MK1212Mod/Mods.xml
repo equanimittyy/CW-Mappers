@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Mods>
-	<Mod screen_name="realistic_infantry_overhaul_1212.pack" version="15 May, 2026 at 01:51" url="https://catalogue.smods.ru/archives/239166" sha256="03e523a9c12df93aac02eea62d2db89759ce654bf993d5cbeae807942d57bfc2">realistic_infantry_overhaul_1212.pack</Mod>
-	<Mod screen_name="realistic_missile_overhaul_1212.pack" version="16 May, 2026 at 02:27" url="https://catalogue.smods.ru/archives/219978" sha256="dca7db6d584a43b195fead7cf76ae27bf8951811447b7cf82b6bc7cd711ea551">realistic_missile_overhaul_1212.pack</Mod>
-	<Mod screen_name="realistic_cavalry_1212.pack" version="15 May, 2026 at 01:50" url="https://catalogue.smods.ru/archives/212078" sha256="0a1e56cee527d59bbe999918ff28648768503de683a890f4edbf9014139683ee">realistic_cavalry_1212.pack</Mod>
 	<Mod screen_name="@ave_cilicia_revamp_mk1212.pack" url="https://steamcommunity.com/sharedfiles/filedetails/?id=2978818194" sha256="301b50dd0262ccd2fbe81550c785ef1f4815c3d0af2b8dd2227d80284f26df4c" steam="true" steam_sha256="301b50dd0262ccd2fbe81550c785ef1f4815c3d0af2b8dd2227d80284f26df4c">@ave_cilicia_revamp_mk1212.pack</Mod>
 	<Mod steam="true" sha256="b15b76435aa038d6950eb81cbd391c84c99f0e8c47bd60d105f8f4e6c04a0362" screen_name="1212compbuild_v2.pack" url="https://steamcommunity.com/sharedfiles/filedetails/?id=1429109380" steam_sha256="b15b76435aa038d6950eb81cbd391c84c99f0e8c47bd60d105f8f4e6c04a0362">1212compbuild_v2.pack</Mod>
 	<Mod steam="true" sha256="031db0736efbbf5ef6f5e9cb7bc040fcf8d79ba74e8bedaead8d6e091b43c926" screen_name="1212models1_v2.pack" url="https://steamcommunity.com/sharedfiles/filedetails/?id=1429140619" steam_sha256="031db0736efbbf5ef6f5e9cb7bc040fcf8d79ba74e8bedaead8d6e091b43c926">1212models1_v2.pack</Mod>
