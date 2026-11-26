@@ -28,10 +28,10 @@
 		<General key="mk_fre_t3_king_bodyguard"></General>
 		<Knights key="mk_fre_t3_gentilshommes_a_bec_de_corbin"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_fre_t3_scots_guard_longbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_fre_t3_banneret_chevaliers_mounted" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_fre_t3_chevaliers_mounted" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_fre_t3_coustiliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_fre_t3_pavisiers" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="earl_fre_t3_levy_handgunners" max="RANGED"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_fre_t3_handgunners" max="RANGED"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_fre_t3_chevaliers_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_fre_t3_chevaliers_mounted" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_fre_t3_3rd_royal_guard_longbowmen" max="RANGED"></MenAtArm>
@@ -46,10 +46,10 @@
 		<Knights key="mk_hre_t3_reichshauptmann_und_gefolge"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_bur_t3_ducal_household_longbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_hre_t3_welsche_garde" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="earl_hre_dragon_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_hre_t3_reisige" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_hre_t3_dismounted_welsche_garde" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_hre_t3_landsknecht_handgunner" max="RANGED"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="earl_hre_t3_doppelsoldner_greatsword" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_hre_t3_doppelsoldner" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_hre_t3_sankt_georgenfahne" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_lor_t3_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_hre_t3_auszug_armbrustschutzen" max="RANGED"></MenAtArm>
@@ -106,7 +106,7 @@
 		<MenAtArm type="armored_footmen" key="mk_ilkhan_t3_tserig_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_ilkhan_t3_nokor" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_ilkhan_t3_tserig_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="camel_rider" key="mk_khw_t3_camel_cavalry" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="camel_rider" key="mk_khw_t3_camelry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_ilkhan_t3_tserig_crossbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="horse_archers" key="mk_ilkhan_t3_tirkash_band" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_ilkhan_t3_dismounted_nokor" max="RANGED"></MenAtArm>

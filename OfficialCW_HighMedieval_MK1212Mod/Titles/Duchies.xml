@@ -8,7 +8,7 @@
 		<General key="mk_bur_t1_duke_bodyguard"></General>
 		<Knights key="mk_bur_t1_chevaliers"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_tou_t1_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_bur_t1_banneret_chevaliers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_bur_t1_chevaliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_bur_t1_mounted_serjeants" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_bur_t1_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_fre_t1_gascon_bideaux" max="RANGED"></MenAtArm>
@@ -82,7 +82,7 @@
 		<General key="mk_fla_t1_guyguard"></General>
 		<Knights key="mk_fla_t1_burgomasters"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_merc_eng_t1_longbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_fla_t1_banneret_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_fla_t1_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_merc_bra_t1_brabanzonen_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_fla_t1_guild_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_fla_t1_falchion_swordsmen" max="INFANTRY"></MenAtArm>
@@ -151,10 +151,10 @@
 		<General key="mk_aus_t1_leopold"></General>
 		<Knights key="mk_aus_t1_generals_bodyguard"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_aus_t1_bogner_archer" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_aus_t1_banneret_ritter" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_aus_t1_ritter" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_aus_t1_mounted_sarianten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_aus_t1_fussknecht_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_swi_t1_kyburg_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_swi_t1_landsturm_halberdiers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_aus_t1_foot_ritter" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_aus_t1_ritter" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_aus_t1_bogner_archer" max="RANGED"></MenAtArm>
@@ -199,21 +199,21 @@
 		<MenAtArm type="pikemen_unit" key="mk_merc_fre_t1_routiers_guisarmiers" max="INFANTRY"></MenAtArm>
 	</Faction>
 	<Faction title_key="d_swiss" name="Swiss Duchy">
-		<General key="mk_swi_t1_kyburg_notables_mounted"></General>
+		<General key="mk_swi_t1_schultheiss_bodyguard"></General>
 		<Knights key="mk_aus_t1_ritter"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_aus_t1_bogner_archer" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_aus_t1_konstafler" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_aus_t1_mounted_sarianten" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_pikes" key="mk_swi_t1_zaehringer_schiltron" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_swi_t1_kyburg_axemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_swi_t1_zaehringer_noble_footmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_swi_t1_kyburg_knights_mounted" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_swi_t1_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_swi_t1_landsturm_halberdiers" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_swi_t1_dismounted_nobles" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_swi_t1_nobles" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_aus_t1_bogner_archer" max="RANGED"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_aus_t1_armbrustschutzen_crossbow" max="RANGED"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_aus_t1_foot_ritter" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="light_footmen" key="mk_swi_t1_kyburg_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mk_swi_t1_landsturm_halberdiers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_bur_t1_scouts" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mk_swi_t1_zaehringer_schiltron" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_swi_t1_axemen" max="INFANTRY"></MenAtArm>
 	</Faction>
 	<Faction title_key="d_teutonic_order" name="Teutonic Order">
 		<General key="mk_teu_t1_grandmaster_bodyguard"></General>
@@ -236,7 +236,7 @@
 		<General key="mk_bur_t1_duke_bodyguard"></General>
 		<Knights key="mk_bur_t1_chevaliers"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_tou_t1_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_bur_t1_banneret_chevaliers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_bur_t1_chevaliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_bur_t1_mounted_serjeants" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_bur_t1_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_fre_t1_gascon_bideaux" max="RANGED"></MenAtArm>
@@ -253,10 +253,10 @@
 		<General key="mk_lor_t1_dukeguard"></General>
 		<Knights key="mk_lor_t1_general_bodyguard"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_hre_t1_bogenschutzen" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_lor_t1_banneret_chevaliers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_lor_t1_chevaliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_lor_t1_coutiliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_merc_bra_t1_brabanzonen_voulgier" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_swi_t1_kyburg_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_swi_t1_landsturm_halberdiers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_lor_t1_dismounted_chevaliers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_lor_t1_chevaliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_hre_t1_bogenschutzen" max="RANGED"></MenAtArm>
