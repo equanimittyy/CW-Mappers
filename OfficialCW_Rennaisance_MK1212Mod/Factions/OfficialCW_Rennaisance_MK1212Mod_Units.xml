@@ -12,13 +12,17 @@
 		<MenAtArm type="RICE_bantu_warriors" key="mk_merc_afr_t3_nubian_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_drokpa_horsemen" key="earl_gold_t3_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="RICE_iron_forest" key="mk_gold_t3_khorchi_khisigten" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="RICE_kwaraae_ramo" key="mk_merc_boh_t3_flailmen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="RICE_mambri" key="mk_merc_boh_t3_flailmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_nilotic_raiders" key="mk_mak_t3_nubian_quilted_spearmen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="RICE_pacific_warriors" key="mk_merc_boh_t3_flailmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_pamir_tribesmen" key="mk_ghu_t3_zupin_javelinmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_siberian_hunters" key="mk_merc_siberia_t3_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_sicily_bowmen" key="mk_ayy_t3_halqa_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_sudanese_highlanders" key="mk_mak_t3_nubian_footmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_swahili_sailors" key="mk_sal_t3_hormuz_pirates" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_velakkara" key="mk_ghu_t3_rajputs" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="abbasid_trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 		<MenAtArm type="abid_alshira" key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="abudrar" key="mk_mar_t3_iburadren" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_archers" key="mk_vlach_t3_guard_archers" max="RANGED"></MenAtArm>
@@ -48,9 +52,11 @@
 		<MenAtArm type="bombard" key="mk_eur_t2_bombard" max="RANGED"></MenAtArm>
 		<MenAtArm type="bondi" key="mk_dan_t2_bondir_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_merc_eng_t3_longbowmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="bulgarian_bagatur" key="mk_merc_steppe_t3_tatar_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bulgarian_ciobani" key="mk_vlach_t3_voynik_archer_spearmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="bulgarian_konnik" key="mk_bulg_t3_heavy_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bulgarian_oklopnitsi" key="mk_bulg_t3_voivods" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="bulgarian_testudos" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="bulgarian_voynik" key="mk_bulg_t3_macemen" max="RANGED"></MenAtArm>
 		<MenAtArm type="burenjia" key="mk_cuman_t3_dismounted_nogers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="bush_hunter" key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>
@@ -68,6 +74,7 @@
 		<MenAtArm type="byzantine_skythikon" key="mk_nic_t3_skythikoi" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="byzantine_toxotai" key="mk_nic_t3_toxotai" max="RANGED"></MenAtArm>
 		<MenAtArm type="byzantine_trapezitai" key="mk_tre_t3_hippoakritai" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="byzantine_trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 		<MenAtArm type="byzantine_vardariotai" key="mk_nic_t3_massagetoi" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="caballero" key="mk_cas_t3_jinetes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="camel_rider" key="mk_abb_t3_bedouin_camel_riders" max="CAVALRY"></MenAtArm>
@@ -1620,10 +1627,10 @@
 	<Faction name="Flemish">
 		<General key="mk_fla_t3_count_retinue"></General>
 		<Knights key="mk_fla_t3_burgomasters"></Knights>
-		<Levies porcentage="45" key="mk_fla_t3_goedendags" max="LEVY"></Levies>
-		<Levies porcentage="15" key="mk_fla_t3_sergeants" max="LEVY"></Levies>
-		<Levies porcentage="10" key="mk_fla_t3_crossbowmen" max="LEVY"></Levies>
-		<Levies porcentage="5" key="mk_fla_t3_spearmen" max="LEVY"></Levies>
+		<Levies porcentage="60" key="mk_fla_t3_goedendags" max="LEVY"></Levies>
+		<Levies porcentage="20" key="mk_fla_t3_sergeants" max="LEVY"></Levies>
+		<Levies porcentage="13" key="mk_fla_t3_crossbowmen" max="LEVY"></Levies>
+		<Levies porcentage="7" key="mk_fla_t3_spearmen" max="LEVY"></Levies>
 		<MenAtArm type="accolade_maa_archers" key="mk_eng_t3_retinue_longbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_fla_t3_mounted_crossbowmen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_handgunners" key="earl_fla_t3_arquebusier" max="RANGED"></MenAtArm>
@@ -2802,7 +2809,7 @@
 	<Faction name="Persian">
 		<General key="mk_khw_t3_sipahsalar_and_retinue"></General>
 		<Knights key="mk_khw_t3_nukaran"></Knights>
-		<Levies porcentage="65" key="mk_khw_t3_muttawiah" max="LEVY"></Levies>
+		<Levies porcentage="60" key="mk_khw_t3_muttawiah" max="LEVY"></Levies>
 		<Levies porcentage="15" key="mk_khw_t3_qullughchi" max="LEVY"></Levies>
 		<Levies porcentage="15" key="mk_sal_t3_fars_archers" max="LEVY"></Levies>
 		<Levies porcentage="10" key="mk_per_t3_tribal_cavalry" max="LEVY"></Levies>

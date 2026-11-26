@@ -12,13 +12,17 @@
 		<MenAtArm type="RICE_bantu_warriors" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_drokpa_horsemen" key="att_nom_shamans_of_the_eternal_sky" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="RICE_iron_forest" key="att_nom_noble_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="RICE_kwaraae_ramo" key="cha_gen_skirm" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="RICE_mambri" key="cha_gen_skirm" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_nilotic_raiders" key="BLEMM_skirm" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="RICE_pacific_warriors" key="cha_gen_skirm" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_pamir_tribesmen" key="att_des_es_rumha_skirmishers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_siberian_hunters" key="att_nom_steppe_shield_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_sicily_bowmen" key="cha_mus_armoured_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_sudanese_highlanders" key="BLEMM_skirm" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_swahili_sailors" key="GARAM_amazigh_swords" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="RICE_velakkara" key="att_des_es_athars_chosen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="abbasid_trebuchet" key="cha_byz_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="abid_alshira" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="abudrar" key="mubs_abudrar" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_archers" key="cha_gen_archers" max="RANGED"></MenAtArm>
@@ -48,9 +52,11 @@
 		<MenAtArm type="bombard" key="cha_byz_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="bondi" key="cha_vik_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="cha_gen_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="bulgarian_bagatur" key="cha_avar_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bulgarian_ciobani" key="att_ger_germanic_brigands" max="RANGED"></MenAtArm>
 		<MenAtArm type="bulgarian_konnik" key="att_nom_elite_hunnic_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="bulgarian_oklopnitsi" key="att_ger_godan's_chosen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="bulgarian_testudos" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="bulgarian_voynik" key="LOM_arimanni_spears" max="RANGED"></MenAtArm>
 		<MenAtArm type="burenjia" key="KOK_cha_gen_armoured_sword" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="bush_hunter" key="att_des_es_adana_trackers" max="RANGED"></MenAtArm>
@@ -68,6 +74,7 @@
 		<MenAtArm type="byzantine_skythikon" key="ERE_avar_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="byzantine_toxotai" key="att_rom_sagittarii" max="RANGED"></MenAtArm>
 		<MenAtArm type="byzantine_trapezitai" key="ERE_limitanei_levy_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="byzantine_trebuchet" key="cha_byz_onager_bastion" max="RANGED"></MenAtArm>
 		<MenAtArm type="byzantine_vardariotai" key="MERC_bucellarii_hun" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="caballero" key="cha_spa_jinetes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="camel_rider" key="att_des_camel_warriors" max="CAVALRY"></MenAtArm>
@@ -1327,7 +1334,7 @@
 		<General key="att_des_desert_chieftain"></General>
 		<Knights key="BLEMM_warlord"></Knights>
 		<Levies porcentage="45" key="BLEMM_tribal_spears" max="LEVY"></Levies>
-		<Levies porcentage="34" key="BLEMM_khanda" max="LEVY"></Levies>
+		<Levies porcentage="35" key="BLEMM_khanda" max="LEVY"></Levies>
 		<Levies porcentage="10" key="BLEMM_archer" max="LEVY"></Levies>
 		<Levies porcentage="10" key="att_des_es_afar_camel_riders" max="LEVY"></Levies>
 		<MenAtArm type="RICE_alodian_cavalry" key="att_des_es_abunas_guard" max="CAVALRY"></MenAtArm>
