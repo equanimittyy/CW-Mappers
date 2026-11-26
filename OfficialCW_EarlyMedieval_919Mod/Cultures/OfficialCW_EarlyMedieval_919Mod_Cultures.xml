@@ -605,8 +605,7 @@
 	<Heritage name="heritage_siberian" faction="Permian">
 		<Culture name="yeniseian" faction="Permian"></Culture>
 	</Heritage>
-	<Heritage name="heritage_vlach" faction="Bulgarian">
-	</Heritage>
+	<Heritage name="heritage_vlach" faction="Bulgarian"></Heritage>
 	<Heritage name="heritage_volga_finnic" faction="Finnic">
 		<Culture name="mordvin" faction="Finnic"></Culture>
 		<Culture name="merya" faction="Finnic"></Culture>
@@ -673,8 +672,7 @@
 		<Culture name="gothic" faction="Gothic"></Culture>
 		<Culture name="crimean_gothic" faction="Gothic"></Culture>
 	</Heritage>
-	<Heritage name="heritage_gothic" faction="Gothic">
-	</Heritage>
+	<Heritage name="heritage_gothic" faction="Gothic"></Heritage>
 	<Heritage name="heritage_albanian" faction="Slavic">
 		<Culture name="arvanite" faction="Bulgarian"></Culture>
 		<Culture name="albanian" faction="Slavic"></Culture>
