@@ -76,17 +76,23 @@
 		<General key="cha_gen_guard_cav"></General>
 		<Knights key="cha_gen_knights"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="cha_fra_mounted_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowers" key="att_rom_elite_ballistarii" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_gen_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_lom_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_lom_skirm" max="RANGED"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguards" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_gen_noble_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="bombard" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="bowmen" key="cha_gen_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="cha_cel_pictish_crossbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="house_guard" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="light_footmen" key="cha_spa_skirm" max="RANGED"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_gen_horsemen" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="mangonel" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
+		<MenAtArm type="onager" key="cha_gen_onager" max="RANGED"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_gen_spear" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="trebuchet" key="cha_gen_large_onager" max="RANGED"></MenAtArm>
 	</Faction>
 </Titles>

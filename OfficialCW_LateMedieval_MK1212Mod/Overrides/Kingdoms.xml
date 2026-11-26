@@ -388,19 +388,27 @@
 		<General key="mk_pap_t2_bodyguard"></General>
 		<Knights key="mk_pap_t2_knights"></Knights>
 		<MenAtArm type="accolade_maa_archers" key="mk_fla_t2_guild_bowmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowers" key="mk_fla_t2_guild_crossbowmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="accolade_maa_handgunners" key="mk_pap_t2_gunners" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_mio_t2_hospitaller_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_pap_t2_merc_comp" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_pap_t2_papal_sergeants" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t2_catalan_company" max="RANGED"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguards" key="mk_pap_t2_merc_comp_inf" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_pap_t2_foot_knights" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_ita_t2_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="bombard" key="mk_eur_t2_bombard" max="RANGED"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_pap_t2_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_pap_t2_crossbowmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="handgunners" key="mk_pap_t2_gunners" max="RANGED"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_mio_t2_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="light_footmen" key="mk_pap_t2_light_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_pap_t2_mounted_serjeants" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
+		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_pap_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pap_t2_spearmen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
 	<Faction title_key="k_pisa" name="Pisa">
 		<General key="mk_pis_t2_bodyguard"></General>

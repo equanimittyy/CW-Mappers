@@ -2735,35 +2735,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_jer_t3_pavise_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
-	<Faction name="Papal States">
-		<General key="mk_pap_t3_bodyguard"></General>
-		<Knights key="mk_pap_t3_knights"></Knights>
-		<Levies porcentage="65" key="mk_pap_t3_light_spearmen" max="LEVY"></Levies>
-		<Levies porcentage="25" key="mk_pap_t3_swordsmen" max="LEVY"></Levies>
-		<Levies porcentage="10" key="mk_pap_t3_light_archers" max="LEVY"></Levies>
-		<MenAtArm type="accolade_maa_archers" key="mk_fla_t3_guild_bowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_crossbowers" key="mk_pap_t3_mounted_crossbowmen" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_handgunners" key="mk_pap_t3_gunners" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_mio_t3_hospitaller_knights" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="mk_pap_t3_berrovieri" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_pikes" key="mk_pap_t3_papal_sergeants" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_pap_t3_light_gunners" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguards" key="mk_mio_t3_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_pap_t3_foot_knights" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_ita_t3_condottieri" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="bombard" key="mk_eur_t2_bombard" max="RANGED"></MenAtArm>
-		<MenAtArm type="bowmen" key="mk_pap_t3_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="crossbowmen" key="mk_pap_t3_crossbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="handgunners" key="mk_pap_t3_gunners" max="RANGED"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_mio_t3_hospitaller_bodyguard" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="light_footmen" key="mk_pap_t3_light_swordsmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mk_pap_t3_mounted_serjeants" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
-		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
-		<MenAtArm type="picchieri" key="mk_pap_t3_pikemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mk_pap_t3_spearmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
-	</Faction>
 	<Faction name="Pecheneg">
 		<General key="mk_cuman_t3_bori"></General>
 		<Knights key="mk_cuman_t3_heavy_HA"></Knights>

@@ -2764,35 +2764,6 @@
 		<MenAtArm type="pikemen_unit" key="mk_jer_t1_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
 	</Faction>
-	<Faction name="Papal States">
-		<General key="mk_pap_t1_bodyguard"></General>
-		<Knights key="mk_pap_t1_latin_milites"></Knights>
-		<Levies porcentage="60" key="mk_pap_t1_spear_militia" max="LEVY"></Levies>
-		<Levies porcentage="15" key="mk_pap_t1_swordsmen" max="LEVY"></Levies>
-		<Levies porcentage="10" key="mk_pap_t1_archer_militia" max="LEVY"></Levies>
-		<Levies porcentage="15" key="mk_pap_t1_french_merc" max="LEVY"></Levies>
-		<MenAtArm type="accolade_maa_archers" key="mk_pap_t1_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_crossbowers" key="mk_merc_gen_t1_genoese_crossbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_handgunners" key="mk_pap_t2_gunners" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_mio_t1_templar_knights" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="mk_pap_t1_berrovieri" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_pikes" key="mk_pap_t1_papal_sergeants" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t1_almogavar" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguards" key="mk_mio_t1_hospitaller_knights_dismounted" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_pap_t1_foot_latin_milites" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_ita_t1_condottieri" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="bombard" key="mk_eur_t2_bombard" max="RANGED"></MenAtArm>
-		<MenAtArm type="bowmen" key="mk_pap_t1_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="crossbowmen" key="mk_pap_t1_crossbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="handgunners" key="mk_pap_t2_gunners" max="RANGED"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_jer_t1_lazarus_knights_dismounted" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="light_footmen" key="mk_merc_ara_t1_almogavar" max="RANGED"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mk_pap_t1_light_cav" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="mangonel" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
-		<MenAtArm type="onager" key="mk_eur_t1_catapult" max="RANGED"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mk_pap_t1_papal_sergeants" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="trebuchet" key="mk_eur_t1_trebuchet" max="RANGED"></MenAtArm>
-	</Faction>
 	<Faction name="Pecheneg">
 		<General key="mk_cuman_t1_koten_and_guards"></General>
 		<Knights key="mk_cuman_t1_bori"></Knights>
