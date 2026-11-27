@@ -7,9 +7,11 @@
 	</Heritage>
 	<Heritage name="heritage_japonic" faction="Tibetan">
 		<Culture name="japanese" faction="Tibetan"></Culture>
+		<Culture name="ryukyuan" faction="Tibetan"></Culture>
+	</Heritage>
+	<Heritage name="heritage_ainuic" faction="Tibetan">
 		<Culture name="emishi" faction="Tibetan"></Culture>
 		<Culture name="ainu" faction="Tibetan"></Culture>
-		<Culture name="ryukyuan" faction="Tibetan"></Culture>
 	</Heritage>
 	<Heritage name="heritage_mon_khmer" faction="Burmese">
 		<Culture name="khmer" faction="Burmese"></Culture>
